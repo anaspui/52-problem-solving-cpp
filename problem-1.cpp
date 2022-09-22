@@ -14,4 +14,5 @@ int main(){
         else cout<<"odd"<<endl;
     i++;
     }
+    //check
 }
